@@ -41,7 +41,7 @@ lib/
 ### Installation
 ```bash
 # Cloner le projet
-git clone [votre-repo]
+git clone https://github.com/votre-username/djina_debug.git
 
 # Installer les dépendances
 flutter pub get
@@ -71,6 +71,10 @@ L'application utilise un système de thème cohérent :
 - **Couleur Secondaire** : Noir (`AppTheme.secondaryColor`) 
 - **Couleur Accent** : Orange (`AppTheme.cardColor`)
 
+## 📱 Captures d'Écran
+
+*[Ajoutez vos captures d'écran ici]*
+
 ## 🚀 Prochaines Étapes
 
 - [ ] Intégration avec l'API backend
@@ -81,8 +85,8 @@ L'application utilise un système de thème cohérent :
 
 ## 👥 Équipe
 
-Développé avec musk pour faciliter vos déplacements au Sénégal.
+Développé avec ❤️ pour faciliter vos déplacements au Sénégal.
 
 ---
 
-*DJINA - Votre transport, notre priorité* TD
+*DJINA - Votre transport, notre priorité* 🇸🇳
