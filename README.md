@@ -4,12 +4,6 @@ DJINA est une application mobile de transport et livraison développée avec Flu
 
 ## ✨ Fonctionnalités
 
-### 🚖 Services de Transport
-- **Taxi Moto** : Rapide et économique pour vos trajets urbains
-- **Taxi Voiture** : Confortable et sécurisé pour 4 passagers
-- **Livraison Moto** : Express en moins d'1 heure
-- **Livraison Voiture** : Pour vos gros colis jusqu'à 500kg
-
 ### 🎨 Interface Utilisateur
 - Design moderne avec thème cohérent
 - Navigation intuitive et fluide
